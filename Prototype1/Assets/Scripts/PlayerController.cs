@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Gerard Lamoureux
+ * Prototype 1
+ * Controls player movement
+ */
+
 public class PlayerController : MonoBehaviour
 {
 

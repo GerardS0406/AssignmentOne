@@ -4,6 +4,12 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+/*
+ * Gerard Lamoureux
+ * Prototype 1
+ * Controls the point system of the game
+ */
+
 public class ScoreManager : MonoBehaviour
 {
     public static bool gameOver;
